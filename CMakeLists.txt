@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(demo_lidar)
 
+set(CUDA_USE_STATIC_CUDA_RUNTIME OFF)
 set(CMAKE_BUILD_TYPE Release)
 
 find_package(catkin REQUIRED COMPONENTS
