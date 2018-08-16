@@ -4,6 +4,12 @@ The program is tested on ROS Fuerte, on a laptop computer with 2.5 GHz quad core
 
 Wiki Webpage: http://wiki.ros.org/demo_lidar
 
+Depth Enhanced Monocular Odometry (camera and lidar version)
+Maintainer: Ji Zhang <zhangji AT cmu DOT edu>
+Author: Ji Zhang
+License: LGPL
+Source: git https://github.com/jizhang-cmu/demo_lidar.git
+
 Another version of the program that uses an RGBD camera is available at
 
 Wiki Webpage: http://wiki.ros.org/demo_rgbd
